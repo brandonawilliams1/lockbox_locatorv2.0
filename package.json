@@ -1,7 +1,8 @@
 {
-   "name": "lockbox_locatorv2.0",
-    "version": "1.0.0",
-    "scripts": {
+  "name": "lockbox_locatorv2.0",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
     "start": "npm start --prefix server",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run start\" \"npm run client\""
