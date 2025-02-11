@@ -1,4 +1,8 @@
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import PropertyList from "./components/PropertyList";
+import Form from "./components/Form";
+import Navbar from "./components/Navbar";
+
 
 function App() {
   useEffect(() => {
@@ -7,9 +11,15 @@ function App() {
       .catch(error => console.error(error));
   }, []);
   return (
-    <div className="App">
-      <h1>Lockbox Locator v2.0</h1>
-    </div>
+    <Router>
+      <Navbar />
+      <div className='container mt-4'>
+        <Routes>
+          <Route path='/' element={<PropertyList />} />
+          <Route path='/create' element={<Form />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
