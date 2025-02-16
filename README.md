@@ -76,7 +76,3 @@ Contributions are welcome! To contribute:
 2. Create a new branch: `git checkout -b feature-name`
 3. Make your changes and commit them: `git commit -m 'Add feature description'`
 4. Push to your fork and create a pull request
-
-## License
-
-This project is licensed under the MIT License.
