@@ -1,12 +1,10 @@
 # [Launch App (press Ctrl or CMD + Click to open in new tab)](https://lockboxlocatorv2.netlify.app/)
 
-![Lockbox Locator App](https://github.com/brandonawilliams1/lockbox_locatorv2.0/blob/main/client/lockbox_locatorv2.0/public/app_preview.png) ![Alt Text](URL)
+![Lockbox Locator App](https://github.com/brandonawilliams1/lockbox_locatorv2.0/blob/main/client/lockbox_locatorv2.0/public/assets/lockbox_app.png) ![screenshot of application](URL)
 
 # Lockbox Locator App [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ---
-
-# Lockbox Locator App
 
 A full stack web application designed for Broadband Communications technicians to log vital premise information about a building's cable wiring and Cable NID location. This app allows technicians to utilize CURD (Create, Update, Read, Delete) functionality, solving the issue of extended time on job sites trying to locate units' points of entry and NID locations.
 
