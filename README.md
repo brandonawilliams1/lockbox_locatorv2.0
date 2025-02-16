@@ -1,4 +1,8 @@
-![Lockbox Locator App](client\lockbox_locatorv2.0\public\lockbox_app.png)
+# [Launch App (press Ctrl or CMD + Click to open in new tab)](https://lockboxlocatorv2.netlify.app/)
+
+![Lockbox Locator App](https://github.com/brandonawilliams1/lockbox_locatorv2.0/blob/main/client/lockbox_locatorv2.0/public/app_preview.png) ![Alt Text](URL)
+
+# Lockbox Locator App [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ---
 
@@ -78,4 +82,3 @@ Contributions are welcome! To contribute:
 ## License
 
 This project is licensed under the MIT License.
-
