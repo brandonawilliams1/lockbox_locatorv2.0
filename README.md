@@ -6,7 +6,7 @@
 
 ---
 
-A full stack web application designed for Broadband Communications technicians to log vital premise information about a building's cable wiring and Cable NID location. This app allows technicians to utilize CURD (Create, Update, Read, Delete) functionality, solving the issue of extended time on job sites trying to locate units' points of entry and NID locations.
+A full-stack web application designed for Broadband Communications technicians to log essential premise information about a building's cable wiring and Cable NID location. This application enables technicians to utilize CRUD (Create, Read, Update, Delete) functionality, addressing the issue of prolonged time on job sites trying to locate units' points of entry and NID locations. The adoption of this application in the field should improve installation and troubleshooting efficiency for the technicians, also eliminating anxiety associated with lone seek-and-find methods. This is particularly important because if the technician has a reference to a unit's point of entry and/or where lines are split, not knowing this information could be a critical determining factor in the overall network performance and experience for the end user. Additionally, knowing where the NID is located, if it is in a locked area, and if Maintenance needs to be contacted ahead of time could reduce idle waiting and discovery times.
 
 ## Features
 
