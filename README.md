@@ -6,8 +6,6 @@
 
 ---
 
-# Lockbox Locator App
-
 A full stack web application designed for Broadband Communications technicians to log vital premise information about a building's cable wiring and Cable NID location. This app allows technicians to utilize CURD (Create, Update, Read, Delete) functionality, solving the issue of extended time on job sites trying to locate units' points of entry and NID locations.
 
 ## Features
