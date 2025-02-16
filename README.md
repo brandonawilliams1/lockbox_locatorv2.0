@@ -1,4 +1,4 @@
-# [Launch App (press Ctrl or CMD + Click to open in new tab)](https://lockboxlocatorv2.netlify.app/)
+# [Launch App (press Ctrl or CMD + Click to open in new tab)](https://)
 
 ![Lockbox Locator App](https://github.com/brandonawilliams1/lockbox_locatorv2.0/blob/main/client/lockbox_locatorv2.0/public/assets/lockbox_app.png) ![screenshot of application](URL)
 
@@ -59,7 +59,7 @@ To get a local copy up and running, follow these steps:
 
 ## Deployment
 
-The application is deployed on Netlify and can be accessed [here](https://lockboxlocatorv2.netlify.app/).
+The application is deployed on Netlify and can be accessed [here](https://).
 
 ## Usage
 
